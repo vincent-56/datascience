@@ -1,7 +1,7 @@
 # Datascience Portfolio 
 
 This portfolio present several of my different datascience projects. 
-These use-cases are grouped in two categories important to master when you do datascience:
+These use-cases are grouped in two categories which are important to master when you do datascience:
 1. Extracting insights from raw data and presenting those insights to others.
 2. Building systems that offer direct value to others (customers, your organization, etc...)
 
