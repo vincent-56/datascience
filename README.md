@@ -1,4 +1,4 @@
-# datascience portfolio 
+# Datascience Portfolio 
 
 This portfolio present several of my different datascience projects. 
 These use-cases are grouped in two categories important to master when you do datascience:
